@@ -17,6 +17,16 @@ This repository contains everything you need to build one:
 | [`docs/`](docs) | camera installation sheet (PNG and PDF) |
 | [`images/`](images) | photos and renderings |
 
+## Where to get it
+
+The model is also published on the usual platforms:
+
+- Printables: https://www.printables.com/model/1924215-birdchalet-cam-bird-feeder-with-wi-fi-camera
+- MakerWorld: https://makerworld.com/en/models/3656035-birdchalet-cam-bird-feeder-with-wi-fi-camera
+- Thingiverse: https://www.thingiverse.com/thing:7438334
+- Cults3D: https://cults3d.com/en/3d-model/home/birdchalet-cam-bird-feeder-with-wi-fi-camera
+- Thangs: https://thangs.com/designer/Bertlab3D/3d-model/BirdChalet%20CAM%20-%20Bird%20Feeder%20with%20Wi-Fi%20Camera-1663097
+
 ## Photos
 
 | | |
