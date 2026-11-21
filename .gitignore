@@ -1,0 +1,9 @@
+# real credentials never go into the repository
+wifi_secret.h
+# build output
+build/
+*.bin
+*.elf
+# OS clutter
+.DS_Store
+._*
